@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
+}
+
+font-family: 'PT Sans', sans-serif;
+font-family: 'PT Serif', serif;
