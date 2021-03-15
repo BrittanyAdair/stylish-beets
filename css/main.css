@@ -1,5 +1,8 @@
 html {
   box-sizing: border-box;
+  background-color: #c9b5ab;
+  font-family: 'PT Serif', serif;
+
 }
 
 *, *::before, *::after {
@@ -9,7 +12,5 @@ html {
 h1 {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem;
 }
-
-font-family: 'PT Sans', sans-serif;
-font-family: 'PT Serif', serif;
